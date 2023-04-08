@@ -1,4 +1,4 @@
-package lock;
+package lxy.lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,4 +1,4 @@
-package lock;
+package lxy.lock;
 
 import java.util.ArrayList;
 import java.util.List;
